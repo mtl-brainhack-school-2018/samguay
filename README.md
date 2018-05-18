@@ -4,4 +4,4 @@
 
 :zap: Very high is the probability I'll be working on some sports-related concussions data :zap:
 
-I have some data 
+** I'll update my repo and my readme.md file this week-end **
